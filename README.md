@@ -3,7 +3,7 @@
 **NeighborFit** is a full-stack web application that helps users discover neighborhoods that best match their lifestyle preferences across various Indian cities.
 
 ### 🔗 Live Links
-- **Frontend**: [neighbor-fit.vercel.app](https://neighbor-fit.vercel.app)
+- **Frontend**: [neighbor-fit.vercel.app](https://neighbor-fit-flame.vercel.app)
 - **Backend API**: [neighborfit-backend.onrender.com/match](https://neighborfit-backend.onrender.com/match)
 
 ---
