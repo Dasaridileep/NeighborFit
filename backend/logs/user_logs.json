@@ -1,0 +1,618 @@
+[
+  {
+    "timestamp": 1751799563673,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751799570081,
+    "city": "Mumbai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751799573736,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751800116291,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 7,
+      "transport": 8,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751806876042,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807239945,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 8,
+      "safety": 6,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807440496,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807446270,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807451164,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807451865,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751807455527,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807456147,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807457172,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807464358,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807464912,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807465154,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807465812,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807466214,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 6,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807470036,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 6,
+      "safety": 7,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807477195,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 4,
+      "safety": 7,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807477670,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 4,
+      "safety": 7,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807477833,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 4,
+      "safety": 7,
+      "nightlife": 6,
+      "transport": 8,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751807883132,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751808156898,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751808158924,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751808162332,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 6
+    }
+  },
+  {
+    "timestamp": 1751808295153,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751808304767,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751955360944,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751955366693,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751956078959,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 8,
+      "nightlife": 3,
+      "transport": 8,
+      "greenery": 7
+    }
+  },
+  {
+    "timestamp": 1751956084427,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 8,
+      "safety": 8,
+      "nightlife": 3,
+      "transport": 8,
+      "greenery": 7
+    }
+  },
+  {
+    "timestamp": 1751956091403,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 8,
+      "safety": 8,
+      "nightlife": 7,
+      "transport": 8,
+      "greenery": 7
+    }
+  },
+  {
+    "timestamp": 1751956125795,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 8,
+      "safety": 8,
+      "nightlife": 7,
+      "transport": 8,
+      "greenery": 7
+    }
+  },
+  {
+    "timestamp": 1751956321420,
+    "city": "Pune",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 1,
+      "transport": 5,
+      "greenery": 4
+    }
+  },
+  {
+    "timestamp": 1751956713357,
+    "city": "Jaipur",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751958300679,
+    "city": "Jaipur",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751958331953,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1751959069155,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752039756794,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040169800,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 8
+    }
+  },
+  {
+    "timestamp": 1752040175924,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 8
+    }
+  },
+  {
+    "timestamp": 1752040372007,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040376773,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040378181,
+    "city": "Chennai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040384254,
+    "city": "Hyderabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040388624,
+    "city": "Pune",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040399128,
+    "city": "Kolkata",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040403220,
+    "city": "Lucknow",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040407222,
+    "city": "Jaipur",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040411084,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040414519,
+    "city": "Mumbai",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040418813,
+    "city": "Delhi",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040698704,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040703375,
+    "city": "Ahmedabad",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  },
+  {
+    "timestamp": 1752040709360,
+    "city": "Bangalore",
+    "preferences": {
+      "cost": 5,
+      "safety": 5,
+      "nightlife": 5,
+      "transport": 5,
+      "greenery": 5
+    }
+  }
+]

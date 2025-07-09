@@ -1,0 +1,273 @@
+[
+  {
+    "name": "BTM Layout",
+    "city": "Bangalore",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 8,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Indiranagar",
+    "city": "Bangalore",
+    "cost": 7,
+    "safety": 8,
+    "nightlife": 9,
+    "transport": 8,
+    "greenery": 7
+  },
+  {
+    "name": "Koramangala",
+    "city": "Bangalore",
+    "cost": 7,
+    "safety": 7,
+    "nightlife": 9,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Andheri West",
+    "city": "Mumbai",
+    "cost": 8,
+    "safety": 6,
+    "nightlife": 9,
+    "transport": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Bandra",
+    "city": "Mumbai",
+    "cost": 9,
+    "safety": 7,
+    "nightlife": 9,
+    "transport": 8,
+    "greenery": 5
+  },
+  {
+    "name": "Powai",
+    "city": "Mumbai",
+    "cost": 7,
+    "safety": 7,
+    "nightlife": 7,
+    "transport": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Connaught Place",
+    "city": "Delhi",
+    "cost": 7,
+    "safety": 6,
+    "nightlife": 7,
+    "transport": 8,
+    "greenery": 5
+  },
+  {
+    "name": "South Delhi",
+    "city": "Delhi",
+    "cost": 8,
+    "safety": 7,
+    "nightlife": 7,
+    "transport": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Dwarka",
+    "city": "Delhi",
+    "cost": 6,
+    "safety": 8,
+    "nightlife": 4,
+    "transport": 7,
+    "greenery": 8
+  },
+  {
+    "name": "Adyar",
+    "city": "Chennai",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 5,
+    "transport": 6,
+    "greenery": 7
+  },
+  {
+    "name": "T. Nagar",
+    "city": "Chennai",
+    "cost": 7,
+    "safety": 6,
+    "nightlife": 6,
+    "transport": 7,
+    "greenery": 4
+  },
+  {
+    "name": "Velachery",
+    "city": "Chennai",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 6,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Banjara Hills",
+    "city": "Hyderabad",
+    "cost": 8,
+    "safety": 7,
+    "nightlife": 7,
+    "transport": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Gachibowli",
+    "city": "Hyderabad",
+    "cost": 7,
+    "safety": 8,
+    "nightlife": 6,
+    "transport": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Madhapur",
+    "city": "Hyderabad",
+    "cost": 7,
+    "safety": 7,
+    "nightlife": 7,
+    "transport": 7,
+    "greenery": 5
+  },
+  {
+    "name": "Koregaon Park",
+    "city": "Pune",
+    "cost": 7,
+    "safety": 8,
+    "nightlife": 7,
+    "transport": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Viman Nagar",
+    "city": "Pune",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 6,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Hinjewadi",
+    "city": "Pune",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 5,
+    "transport": 6,
+    "greenery": 5
+  },
+  {
+    "name": "C-Scheme",
+    "city": "Jaipur",
+    "cost": 6,
+    "safety": 7,
+    "nightlife": 6,
+    "transport": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Malviya Nagar",
+    "city": "Jaipur",
+    "cost": 5,
+    "safety": 8,
+    "nightlife": 5,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "Vaishali Nagar",
+    "city": "Jaipur",
+    "cost": 6,
+    "safety": 6,
+    "nightlife": 4,
+    "transport": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Gomti Nagar",
+    "city": "Lucknow",
+    "cost": 5,
+    "safety": 7,
+    "nightlife": 5,
+    "transport": 6,
+    "greenery": 6
+  },
+  {
+    "name": "Aliganj",
+    "city": "Lucknow",
+    "cost": 4,
+    "safety": 6,
+    "nightlife": 4,
+    "transport": 5,
+    "greenery": 6
+  },
+  {
+    "name": "Indira Nagar",
+    "city": "Lucknow",
+    "cost": 5,
+    "safety": 6,
+    "nightlife": 5,
+    "transport": 6,
+    "greenery": 7
+  },
+  {
+    "name": "Salt Lake",
+    "city": "Kolkata",
+    "cost": 6,
+    "safety": 8,
+    "nightlife": 6,
+    "transport": 7,
+    "greenery": 7
+  },
+  {
+    "name": "Ballygunge",
+    "city": "Kolkata",
+    "cost": 7,
+    "safety": 7,
+    "nightlife": 7,
+    "transport": 7,
+    "greenery": 6
+  },
+  {
+    "name": "New Town",
+    "city": "Kolkata",
+    "cost": 5,
+    "safety": 7,
+    "nightlife": 6,
+    "transport": 8,
+    "greenery": 8
+  },
+  {
+  "name": "Navrangpura",
+  "city": "Ahmedabad",
+  "cost": 6,
+  "safety": 7,
+  "nightlife": 5,
+  "transport": 6,
+  "greenery": 6
+},
+{
+  "name": "Satellite",
+  "city": "Ahmedabad",
+  "cost": 7,
+  "safety": 6,
+  "nightlife": 5,
+  "transport": 7,
+  "greenery": 6
+},
+{
+  "name": "Bopal",
+  "city": "Ahmedabad",
+  "cost": 5,
+  "safety": 7,
+  "nightlife": 4,
+  "transport": 6,
+  "greenery": 7
+}
+
+]
